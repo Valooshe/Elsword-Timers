@@ -1,7 +1,7 @@
 ﻿/*
-F5 - Freeze
-F9 - Reset Timer
-F12 - Close Timer
+Numpad4 - Freeze
+NumpadEnter - Reset Timer
+NumpadSub - Close Timer
 */
 
 #SingleInstance Force
@@ -38,7 +38,7 @@ WM_LBUTTONDOWN() {
 flag = 0
 return
 
-F12::
+NumpadSub::
     ExitApp
 return
 

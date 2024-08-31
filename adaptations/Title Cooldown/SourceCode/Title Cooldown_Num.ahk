@@ -2,8 +2,8 @@
 Numpad1 - 17-5
 Numpad2 - 15-6
 Numpad3 - 13-5
-F9 - Reset Timer
-F12 - Close Timer
+NumpadEnter - Reset Timer
+NumpadSub - Close Timer
 */
 
 #SingleInstance Force
