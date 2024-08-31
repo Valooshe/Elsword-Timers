@@ -1,0 +1,11 @@
+Hotkey on F5:
+Freeze.ahk Sourcefile
+Freeze.exe Application
+
+Hotkey on Numpad1 (Num pad, 1):
+Freeze_Num1.ahk Sourcefile
+Freeze_Num1.exe Application
+
+Hotkey on Numpad4 (Num pad, 4):
+Freeze_Num4.ahk Sourcefile
+Freeze_Num4.exe Application
