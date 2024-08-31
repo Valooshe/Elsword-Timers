@@ -1,0 +1,77 @@
+Counter Ver1.7
+
+Content:
+1. Set 127R3,156R1 Quick-Start，You can just Press "F2" when the stage start:)
+2. Set "F12" to close the counter
+
+Timer timechange:
+1. 127R3 HeadLaser 70->75
+2. 156R1 BigSpike 80->85
+
+//============================================================================
+Guide:
+1. Double-click to open the program.
+2. The default timer is in the bottom right corner. If needed, you can left-click the window and drag it to your desired position.
+3. You can use hotkeys for the timer, as per the corresponding settings for the following stages:
+
+CrimsonCounter_127R3
+F2 - Thorns
+F3 - Head Laser
+F4 - Overtime (Small Thorns reset for 30 seconds, if you the time after meeting the eight-ball & Stuck-Laser is lower than 30, this hotkey will help you:3)
+F5 - Freeze
+F9 - Reset Timer
+F12 - Close Timer
+
+BertheCounter_156R1
+F2 - Ultimate
+F3 - Big Spike (Medium to Big)
+F4 - Earthquake (Ground Slam)
+F5 - Freeze
+F9 - Reset Timer
+F12 - Close Timer
+
+BertheCounter_156R3
+F2 - Orb Shield (as OS)
+F3 - Black White (as BW)
+F4 - Triple Explosion (as TE)
+F5 - Freeze
+F9 - Reset Timer
+F12 - Close Timer
+
+//============================================================================
+Note:
+
+The counters defaulted AlwaysOnTop.
+and the counters can only using in NoBorderWindow or Window mode, Full-screen mode can't be use(I don't find the method:3)
+
+The counter will block your elsword button.
+For example:
+"Freeze" is set on "F5", so your elsword's "F5"  will be blocked.
+(I suggest that if you wanna call you team that you have freezed by sound, you can just press "F5"+"F6". 
+The result will be that "you will count the freeze" and "you call your team by elsword's "F6" ")
+
+The three counters are all set up the Quick-start, So just Press "F2" when openning:3
+
+All timing should start [immediately upon the move's activation] if you wanna count correctly.
+For example: 
+"Freeze" should start timing right after it is triggered, 
+when the screen zooms out for Thorns, 
+when Orb Shield zooms out, 
+or when Black & White zooms out...
+
+Regarding the 156R3, 
+The seconds added for using an ultimate to block another ultimate will reset automatically, so just press the corresponding key when the mechanism is triggered.
+
+156R3 counter have set the second Quick-Start when you press "F2" second time.
+Normally, pressing "F2" second time is when the first OrbShield trigged, 
+we observed that BlackWhite will be trigged in 77s ,not 80s after first OrbShield.so set the 77s for first BlackWhite
+Just first ultimate have this situation, please use this carefully:3
+
+The source codes are included, If you want to change the hotkey you can just modify it as you like. 
+
+The instructions are written very simply.
+If you have any issues or suggestions, feel free to DM me on Discord (id: yixiwinston)
+or here is my email(yixiwinston@gmail.com)
+
+I wish you success in your challenges and a pleasant gaming experience. :D
+
