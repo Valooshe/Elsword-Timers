@@ -80,6 +80,13 @@ How to start the counter:
 * F4 - 13-5
 * F5 - Freeze
 
+**Title Cooldowns V2**
+* F6 - 17-5
+* F7 - 15-6
+* F8 - 13-5
+* F10 - Reset Timer
+* F11 - Close Timer
+
 ## Original Author
 
 The original timer was written by @yixiwinston (Discord ID), I only adapted it to my own usage and would like to share it as well. I put all the original files in an extra folder, so there won't be any confusions.
