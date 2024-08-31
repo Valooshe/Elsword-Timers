@@ -1,0 +1,17 @@
+With Freeze:
+Hotkeys on F2 ~ F5:
+Title Cooldown + Freeze.ahk Sourcefile
+Title Cooldown + Freeze.exe Application
+
+Hotkey on Numpad1 ~ Numpad4 (Num pad, 1; 2; 3; 4):
+Title Cooldown + Freeze_Num.ahk Sourcefile
+Title Cooldown + Freeze_Num.exe Application
+
+Without Freeze:
+Hotkeys on F2 ~ F4:
+Title Cooldown.ahk Sourcefile
+Title Cooldown.exe Application
+
+Hotkey on Numpad1 ~ Numpad3 (Num pad, 1; 2; 3):
+Title Cooldown_Num.ahk Sourcefile
+Title Cooldown_Num.exe Application
