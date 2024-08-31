@@ -44,7 +44,7 @@ WM_LBUTTONDOWN() {
 flag = 0
 return
 
-F12::
+NumpadSub::
     ExitApp
 return
 
@@ -70,7 +70,7 @@ $Numpad3::
 Return
 
 
-$F9::
+$NumpadEnter::
    GuiControl, +cFFFFFF, Countdown1
    GuiControl, +cFFFFFF, Countdown2
    GuiControl, +cFFFFFF, Countdown3

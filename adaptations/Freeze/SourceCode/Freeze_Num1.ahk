@@ -49,7 +49,7 @@ $Numpad1::
    SetTimer, Go4, 1000
 Return
 
-$F9::
+$NumpadEnter::
    GuiControl, +c21e4ff, Countdown4
    
    flag = 0
