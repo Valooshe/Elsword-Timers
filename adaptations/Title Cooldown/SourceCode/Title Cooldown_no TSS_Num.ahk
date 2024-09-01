@@ -24,7 +24,7 @@ Gui, Font, s14 cBlack, MS Sans Serif
 Gui, Add, Text, vCountdown1 x85 y5 w100 cFFFFFF ,0
 Gui, Add, Text, vCountdown2 x85 y40 w100 cFFFFFF ,0
 
-Gui, Show, h75 w120 
+Gui, Show, h45 w120
 Gui, +AlwaysOnTop -Caption -Border
 
 
