@@ -58,7 +58,7 @@ Return
 $Numpad2::
    GuiControl, +cF4BD3E, Topic2
    GuiControl, +cFFFFFF, Countdown2
-   cnt2 := 29
+   cnt2 := 25
    SetTimer, Go2, 1000
 Return
 
